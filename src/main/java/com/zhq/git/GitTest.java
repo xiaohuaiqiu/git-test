@@ -12,5 +12,6 @@ public class GitTest {
         System.err.println("hello.git test!");
         System.err.println("hello.git5!");
         System.err.println("push.git5!");
+        System.err.println("远程库添加的一行代码！！！")
     }
 }
